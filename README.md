@@ -11,5 +11,7 @@ After downloading repository files, a preview can be seen by opening the `index.
 
 ## Live Website
 
-The website is hosted with Microsoft Azure and can be viewed with the following link: `http://contosowebpage.azurewebsites.net/`
+The website is hosted with Microsoft Azure and can be viewed with the following link: 
+
+http://contosowebpage.azurewebsites.net/
 
